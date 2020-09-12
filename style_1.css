@@ -1,0 +1,44 @@
+.content-hd h1 {
+    font-size: 70px;
+}
+
+.info,
+.contact {
+    overflow: hidden;
+}
+
+.contact a {
+    padding-left: 20px;
+    padding-right: 150px;
+    font-size: 30px;
+}
+
+.content-bd h2 {
+    font-size: 50px;
+}
+
+.content-bd h3 {
+    display: inline;
+    font-size: 30px;
+}
+
+.content-bd span {
+    padding-left: 20px;
+    padding-right: 150px;
+    font-size: 30px;
+}
+
+.name,
+.gender,
+.job,
+.number,
+.email,
+.page {
+    float: left;
+}
+
+.ability h3,
+.education h3,
+.experience h3 {
+    display: block;
+}

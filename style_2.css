@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+}
+
+.content {
+    height: 1400px;
+}
+
+.content-hd {
+    float: left;
+    width: 30%;
+    height: 1800px;
+    padding-top: 100px;
+    background-color: rgba(92, 197, 223, 0.966);
+}
+
+.content-hd h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 70px;
+}
+
+.content-bd {
+    background-color: #eee;
+    float: right;
+    width: 70%;
+    padding: 50px 30px;
+}
+
+.content-bd h2 {
+    font-size: 50px;
+}
+
+.info,
+.contact {
+    overflow: hidden;
+}
+
+.name,
+.gender,
+.job,
+.number,
+.email,
+.page {
+    float: left;
+}
+
+.content-bd h3 {
+    display: inline-block;
+    font-size: 30px;
+}
+
+.content-bd span {
+    padding-left: 15px;
+    padding-right: 50px;
+    font-size: 30px;
+}
+
+.content-bd a {
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 50px;
+}
+
+.ability h3,
+.education h3,
+.experience h3 {
+    display: block;
+}
