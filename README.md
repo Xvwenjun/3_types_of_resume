@@ -4,4 +4,6 @@
 ### 练习使用盒模型、浮动
 理解inline、block和inline-block
 
+
+###学习如何在网页中预览github代码
 https://xvwenjun.github.io/3_types_of_resume/resume.html
