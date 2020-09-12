@@ -2,4 +2,4 @@
 百度前端技术学院第五天和第六天作业
 **初识HTML和CSS
 ### 练习使用盒模型、浮动
-##理解inline、block和inline-block
+理解inline、block和inline-block
