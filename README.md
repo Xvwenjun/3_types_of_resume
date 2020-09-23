@@ -7,7 +7,20 @@
 1、理解inline、block和inline-block
 
 2、浮动：清除浮动和闭合浮动
+* 清除浮动:为浮动元素的父元素设置`.clearfix`类
+``` 
+.clearfix:after {
+ content:" ";
+ display: table;
+ clear: both;
+ }
+ .clearfix {
+ *zoom :1;
+ }
 
+``` 
+ * 清除浮动：为父元素添加`overflow:hidden`
+``` 
 3、当加上边框等样式的时候，浮动就会出现问题，一行容纳不下原本的宽度，更改盒子模型：
 ` box-sizing: border-box;`
 
